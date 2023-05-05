@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Main class for Asteroids.
  * 
- * @author CS159 Instructors
+ * @author CS159 Instructors and Aidan Chadha
  * @version s23
  */
 public class AsteroidsGame implements Playable {
